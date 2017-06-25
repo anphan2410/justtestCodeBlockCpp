@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1498414254 source:d:\an.phan\gitme\anphan2410\justtestcodeblockcpp\main.cpp
+	<stdio.h>
+	<iostream>
+	"anlogger.h"
+	<algorithm>
+
+1498414337 d:\an.phan\gitme\anphan2410\justtestcodeblockcpp\anlogger.h
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<iostream>
+	<sstream>
+	<thread>
+	<chrono>
+	<time.h>
+	<windows.h>
+	<QtGlobal>
+	<QDebug>
+	<QVariant>
+	<QString>
+	<QTime>
+	<QTextStream>
+	<QIODevice>
+
